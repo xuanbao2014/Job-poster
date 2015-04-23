@@ -1,0 +1,147 @@
+#collapse>.panel-body{
+    padding: 0;
+}
+
+#filter_div .filter-label {
+    color: #000000;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-weight: 400;
+    font-size: 120%;
+    margin-bottom: 10px;
+}
+
+    
+.popover a:hover{
+    color: #E99002;
+}
+
+ul.dropdown-menu li a:hover{
+    color: #FFFFFF;
+    background-color: #008CBA;
+}
+
+ul.dropdown-menu li.first-dropdown {
+    border-bottom: 1px solid #dadada;
+}
+
+.filter-item {
+    padding: 10px 15px 10px 15px;
+    border-bottom: 1px solid #dadada;
+}
+
+.filter-item .submenu-pointer {
+    float: right;
+}
+
+.filter-item:hover,
+.filter-panel .filter-selected {
+    background-color: #008CBA;
+}
+
+.filter-item:hover>a,
+.filter-selected>a {
+    color: #FFFFFF;
+}
+
+.filter-panel {
+    border-top: 1px solid #dadada;
+}
+
+.filter-panel .filter-item > a {
+    text-decoration: none;
+    padding: 0 0.3em 0 0.3em;
+    font-weight: 400;
+}
+
+.container .content-block-wrapper {
+    margin-top: 30px;
+}
+
+.content-block .job-summary .fav-icon-div {
+    visibility: hidden;
+}
+
+.content-block .job-summary {
+    background-color: #FFFFFF;
+    border: 3px solid #FFFFFF;
+}
+
+.content-block .job-summary:hover {
+    border: 3px solid #eaeaea;
+}
+
+.content-block .job-summary:hover .fav-icon-div {
+    visibility: visible;
+    cursor: pointer;
+}
+
+.job-title {
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 130%;
+}
+
+.job-company,
+.job-city 
+{
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 85%;
+    color: #019875;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.job-post-time {
+    font-size: 70%;
+}
+
+span.labels-span {
+    float: right;
+}
+
+.job-post-summary {
+    overflow: hidden;
+    height: 2.7em;
+    margin: 10px 0 0 0;
+    display: none;
+}
+
+.job-post-summary a {
+    color: #595959;
+}
+
+.job-summary .panel-heading,
+.job-summary .panel-body
+{
+    padding: 0 15px 0 15px;
+}
+
+.job-summary {
+    margin: 15px 0 15px 0;
+}
+
+.tax_guide:hover {
+       opacity: .5;
+}
+
+#filter_div {
+    margin-bottom: 0px;
+}
+
+
+@media (min-width: 992px) {
+
+    #filter_div {
+        margin: 20px 0 40px 0;
+        background-color: #FFFFFF;
+        width: 100%;
+    }
+
+    .left-sidebar {
+        margin-top: 30px;
+    }
+
+    .filter-panel .dropdown-menu {
+        left: 100%;
+        top: -1px;
+    }
+}

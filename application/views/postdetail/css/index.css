@@ -1,0 +1,29 @@
+.popover a:hover{
+	color: #E99002;
+}
+
+.job-title {
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 150%;
+    color: #008CBA;
+}
+
+.job-company,
+.job-city {
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 100%;
+    color: #019875;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.post-content {
+   font-family: "Times New Roman", Georgia, Serif;
+   line-height: 130%;
+   margin-top: 20px;
+}
+
+.job-tag {
+  display: inline-block;
+  margin-top: 15px;
+}

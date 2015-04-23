@@ -1,0 +1,63 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2015-03-27 03:42:42 --> Severity: Notice --> Undefined property: Sitemap::$sitemap /home/wwwroot/job/application/controllers/Sitemap.php 12
+ERROR - 2015-03-27 03:42:42 --> Severity: Error --> Call to a member function setFilename() on a non-object /home/wwwroot/job/application/controllers/Sitemap.php 12
+ERROR - 2015-03-27 04:54:52 --> Could not find the language line "zhidian_print"
+ERROR - 2015-03-27 05:31:22 --> Severity: 8192 --> Function split() is deprecated /home/wwwroot/job/application/models/Member_model.php 58
+ERROR - 2015-03-27 05:36:16 --> Could not find the language line "form_validation_matches"
+ERROR - 2015-03-27 05:36:48 --> Severity: 8192 --> Function split() is deprecated /home/wwwroot/job/application/models/Member_model.php 58
+ERROR - 2015-03-27 05:55:13 --> The filetype you are attempting to upload is not allowed.
+ERROR - 2015-03-27 05:55:30 --> The filetype you are attempting to upload is not allowed.
+ERROR - 2015-03-27 07:05:07 --> Severity: Warning --> fsockopen(): SSL: crypto enabling timeout /home/wwwroot/job/system/libraries/Email.php 1927
+ERROR - 2015-03-27 07:05:07 --> Severity: Warning --> fsockopen(): Failed to enable crypto /home/wwwroot/job/system/libraries/Email.php 1927
+ERROR - 2015-03-27 07:05:07 --> Severity: Warning --> fsockopen(): unable to connect to ssl://smtp.exmail.qq.com:465 (Unknown error) /home/wwwroot/job/system/libraries/Email.php 1927
+ERROR - 2015-03-27 10:45:52 --> Could not find the language line "zhidian_filter_"
+ERROR - 2015-03-27 10:45:52 --> Could not find the language line "zhidian_filter_"
+ERROR - 2015-03-27 11:21:14 --> Could not find the language line "zhidian_filter_"
+ERROR - 2015-03-27 11:21:14 --> Could not find the language line "zhidian_filter_"
+ERROR - 2015-03-27 11:24:16 --> Could not find the language line "zhidian_filter_"
+ERROR - 2015-03-27 11:24:16 --> Could not find the language line "zhidian_filter_"
+ERROR - 2015-03-27 13:49:39 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 13:53:56 --> Could not find the language line "zhidian_filter_part"
+ERROR - 2015-03-27 13:54:52 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 13:55:08 --> Could not find the language line "zhidian_filter_part"
+ERROR - 2015-03-27 14:05:42 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 14:09:13 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 14:19:39 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 14:19:39 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 14:20:11 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 14:20:22 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 14:20:53 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 14:21:34 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 14:22:27 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 14:22:27 --> Could not find the language line "zhidian_filter_international"
+ERROR - 2015-03-27 14:23:40 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 14:24:00 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 14:24:00 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 14:24:40 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 14:26:22 --> Could not find the language line "zhidian_filter_part"
+ERROR - 2015-03-27 14:29:02 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 14:29:13 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 14:29:43 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 14:29:43 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 14:30:23 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 14:30:23 --> Could not find the language line "zhidian_filter_part"
+ERROR - 2015-03-27 14:31:03 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 14:31:13 --> Could not find the language line "zhidian_filter_part"
+ERROR - 2015-03-27 14:32:33 --> Could not find the language line "zhidian_filter_part"
+ERROR - 2015-03-27 14:33:53 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 14:34:33 --> Could not find the language line "zhidian_filter_part"
+ERROR - 2015-03-27 14:35:03 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 14:35:03 --> Could not find the language line "zhidian_filter_part"
+ERROR - 2015-03-27 14:37:33 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 14:40:23 --> Could not find the language line "zhidian_filter_united"
+ERROR - 2015-03-27 15:51:46 --> Could not find the language line "zhidian_print"
+ERROR - 2015-03-27 15:52:36 --> Could not find the language line "zhidian_print"
+ERROR - 2015-03-27 19:01:22 --> Could not find the language line "zhidian_filter_full"
+ERROR - 2015-03-27 19:08:01 --> Could not find the language line "zhidian_filter_part"
+ERROR - 2015-03-27 20:55:50 --> Could not find the language line "zhidian_filter_"
+ERROR - 2015-03-27 20:55:50 --> Could not find the language line "zhidian_filter_"
+ERROR - 2015-03-27 22:10:33 --> Could not find the language line "zhidian_filter_"
+ERROR - 2015-03-27 22:10:33 --> Could not find the language line "zhidian_filter_"
+ERROR - 2015-03-27 22:18:03 --> Could not find the language line "zhidian_filter_"
+ERROR - 2015-03-27 22:18:03 --> Could not find the language line "zhidian_filter_"

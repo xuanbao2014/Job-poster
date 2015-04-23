@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /member
+Disallow: /uploads
+
+Sitemap: http://zhidian.us/sitemap.xml
